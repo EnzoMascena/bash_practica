@@ -1,0 +1,170 @@
+    1  inxi
+    2  inxi -F
+    3  free -h
+    4  clear
+    5  sudo apt install code
+    6  clear
+    7  python --version
+    8  sudo apt update
+    9  apt list --upgradable
+   10  sudo apt install python3
+   11  which python3
+   12  export "PATH=$PATH:/usr/bin/python3>>"
+   13  --version python3
+   14  python --version
+   15  python3 --version 
+   16  cd Escritorio
+   17  touch hola_mundo.py
+   18  uname -m
+   19  /usr/bin/python3 /home/enzo/Escritorio/hola_mundo.py
+   20  cd Escritorio
+   21  ls
+   22  cd facu
+   23  ls}
+   24  ls
+   25  SistemasOperatios
+   26  cd SistemasOperatios
+   27  c SistemasOperativos
+   28  cd SistemasOperativos
+   29  ls
+   30  cd practicas
+   31  l
+   32  ls
+   33  cd TP1
+   34  LS
+   35  ls
+   36  ll
+   37  clear
+   38  help mkdir
+   39  info mkdir
+   40  mkdir --help
+   41  touch --help
+   42  clear
+   43  sudo usermod -aG sudo admi
+   44  groups admi
+   45  echo /etc/passwd
+   46  cat usuarios
+   47  cd Escritorio
+   48  ls
+   49  cd facu
+   50  cd SistemasOperativos/practicas
+   51  cd tp
+   52  cd tp1
+   53  ls
+   54  cd TP1
+   55  cat usuarios
+   56  clear
+   57  tail -1 usuarios | cut -d ':' -F1
+   58  tail -1 usuarios | cut -d ':' -f1
+   59  cut -d ':' -f 2-5
+   60  cd Escritorio/facu/SistemasOperativos/practicas/TP1/
+   61  cat usuarios.txt
+   62  ls
+   63  cat usuarios
+   64  cut -d: -f3,4,7 usuarios > perfil.txt
+   65  cat usuarios
+   66  cat perfil.txt
+   67  tail -1 usuarios | cut -d ':' -f 3
+   68  tail -1 usuarios | cut -d ':' -f 3,5,7
+   69  tail -1 usuarios | cut -d ':' -f 3,4,7
+   70  cat perfil.txt
+   71  (tail -1 usuarios | cut -d ':' -f 3,4,7)> perfil.txt
+   72  cat perfil.txt
+   73  cat perfil
+   74  cat perfil.txt
+   75  cut --help
+   76  echo vid=$(tail -1 usuarios | cut -d ':' -f 3,4,7)
+   77  echo vid=$(tail -1 usuarios | cut -b ':' -f 3,4,7)
+   78  echo vid=$(tail -1 usuarios | cut -n ':' -f 3,4,7)
+   79  clear
+   80  touch --help
+   81  touch -a -t 20240306 perfil.txt
+   82  touch -a -t 202403061344 perfil.txt
+   83  ls -l perfil.txt
+   84  mount | grep -i noatime
+   85  stat perfil.txt
+   86  tall -n 4 usuarios
+   87  tail -n 4 usuarios
+   88  head -n 4 usuarios
+   89  tail -n 1 usuarios
+   90  clear
+   91  run 
+   92  cd Escritorio/facu/SistemasOperativos/practicas/TP1/
+   93  ech /etc/fstab
+   94  echo /etc/fstab
+   95  ls etc/fstab
+   96  ls /etc/fstab
+   97  cat /etc/fstab 
+   98  history
+   99  cat /etc/fstab 
+  100  cat usuarios
+  101  mv /etc/fstab filesystem.txt
+  102  sudo mv /etc/fstab filesystem.txt
+  103  ll filesystem.txt 
+  104  cat filesystem.txt 
+  105  cat /etc/fstab > filesystem.txt 
+  106  sudo cat /etc/fstab > filesystem.txt 
+  107  ls -l filesystem.txt 
+  108  chmod u+w filesystem.txt 
+  109  sudo chmod u+w filesystem.txt 
+  110  ls -l filesystem.txt 
+  111  sudo cat /etc/fstab > filesystem.txt 
+  112  sudo chown enzo:enzo filesystem.txt
+  113  cat /etc/fstab > filesystem.txt
+  114  [200~ls -l /etc/fstab
+  115  ls -l /etc/fstab
+  116  history
+  117  sudo mv filesystem.txt /etc/fstab
+  118  sudo cp /etc/fstab filesystem.txt
+  119  cat /etc/fstab 
+  120  sudo cp /etc/fstab filesystem.txt
+  121  sudo cp /etc/fstab /etc/fstab.bak
+  122  ls /etc/fstab
+  123  cat /etc/fstab
+  124  ls -lh ~/Escritorio/facu/SistemasOperativos/practicas/TP1
+  125  sudo blkid
+  126  findmnt -l
+  127  sudo mkdir -p /mnt/windows
+  128  sudo mkdir -p /mnt/datos
+  129* sudo mkdir -p /mnt/windows/
+  130  sudo nano /etc/fstab
+  131  sudo mount -a
+  132  df -h | grep /mnt
+  133  clear
+  134  sudo cat /etc/fstab > filesystem.txt 
+  135  sudo rm filesystem.txt 
+  136  sudo cat /etc/fstab > filesystem.txt 
+  137  cat filesystem.txt 
+  138  ls -l filesystem.txt 
+  139  sudo cat /etc/fstab > filesystem.txt 
+  140  ls -l filesystem.txt 
+  141  sudo cat /etc/fstab
+  142  sudo nano /etc/fstab
+  143  sudo mount -a
+  144  mount | grep /dev
+  145  sudo nano /etc/fstab
+  146  sudo blkid
+  147  ls -l /mnt
+  148  cat /etc/fstab
+  149  cat /etc/fstab > filesystem.txt 
+  150  cat filesystem.txt 
+  151  cat cantidad
+  152  history
+  153  touch cantidad.txt
+  154  ls cantidad.txt 
+  155  ll cantidad.txt 
+  156  ws filesystem.txt > cantidad
+  157  cs filesystem.txt > cantidad
+  158  ws filesystem.txt > cantidad
+  159  wc filesystem.txt > cantidad
+  160  cat cantidad
+  161  wc -l -w -m filesystem.txt > cantidad.txt 
+  162  echo (wc -l -w -m usuarios)
+  163  echo $"(wc -l -w -m usuarios)"
+  164  wc -l -w -m usuarios
+  165  tkm
+  166  ttm help
+  167  ttm --help
+  168  history ./TP1/cmd.txt
+  169  history > ./TP1/cmd.txt
+  170  history > cmd.txt

@@ -1,0 +1,8 @@
+# /etc/fstab: Static information about the filesystems.
+#
+# <file system> <mount point>  <type>  <options>       <dump>  <pass>
+UUID=<UUID>  /mnt/windows  ntfs  defaults  0  0
+UUID=<UUID>  /mnt/datos    ext4   defaults  0  2
+/dev/sda6    /        ext4    defaults        0       1
+/dev/sda5    /boot/efi  vfat    defaults        0       2
+

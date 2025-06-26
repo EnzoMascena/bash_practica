@@ -1,0 +1,3 @@
+El uid es: 1001
+El uid es: 1001
+El uid es: /bin/sh

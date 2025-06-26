@@ -1,0 +1,3 @@
+nobash.txt
+Practica 1.pdf
+tp1.tar.gz

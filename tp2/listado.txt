@@ -1,0 +1,22 @@
+   21  ls
+   23  ls}
+   24  ls
+   29  ls
+   32  ls
+   35  ls
+   48  ls
+   53  ls
+   62  ls
+   83  ls -l perfil.txt
+   95  ls etc/fstab
+   96  ls /etc/fstab
+  107  ls -l filesystem.txt 
+  110  ls -l filesystem.txt 
+  114  [200~ls -l /etc/fstab
+  115  ls -l /etc/fstab
+  122  ls /etc/fstab
+  124  ls -lh ~/Escritorio/facu/SistemasOperativos/practicas/TP1
+  138  ls -l filesystem.txt 
+  140  ls -l filesystem.txt 
+  147  ls -l /mnt
+  154  ls cantidad.txt 

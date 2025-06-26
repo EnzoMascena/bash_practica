@@ -1,0 +1,4 @@
+home=/home/enzo
+hostname=
+logname=enzo
+path=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/enzo/.config/Code/User/globalStorage/github.copilot-chat/debugCommand
