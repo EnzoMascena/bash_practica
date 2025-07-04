@@ -15,5 +15,4 @@ for archivo in "$1"/*; do
         fi
     fi
 done
-
 cat perm644
