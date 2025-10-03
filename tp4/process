@@ -1,0 +1,231 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.1  0.1  22576  6552 ?        Ss   15:40   0:05 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    15:40   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    15:40   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-netns]
+root          12  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    15:40   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    15:40   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    15:40   0:00 [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    15:40   0:00 [ksoftirqd/0]
+root          17  0.2  0.0      0     0 ?        I    15:40   0:12 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    15:40   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    15:40   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    15:40   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    15:40   0:00 [cpuhp/1]
+root          22  0.0  0.0      0     0 ?        S    15:40   0:00 [idle_inject/1]
+root          23  0.0  0.0      0     0 ?        S    15:40   0:00 [migration/1]
+root          24  0.0  0.0      0     0 ?        S    15:40   0:00 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/1:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        S    15:40   0:00 [cpuhp/2]
+root          28  0.0  0.0      0     0 ?        S    15:40   0:00 [idle_inject/2]
+root          29  0.0  0.0      0     0 ?        S    15:40   0:00 [migration/2]
+root          30  0.0  0.0      0     0 ?        S    15:40   0:00 [ksoftirqd/2]
+root          32  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/2:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    15:40   0:00 [cpuhp/3]
+root          34  0.0  0.0      0     0 ?        S    15:40   0:00 [idle_inject/3]
+root          35  0.0  0.0      0     0 ?        S    15:40   0:00 [migration/3]
+root          36  0.0  0.0      0     0 ?        S    15:40   0:01 [ksoftirqd/3]
+root          38  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/3:0H-events_highpri]
+root          39  0.0  0.0      0     0 ?        I    15:40   0:00 [kworker/u9:0-events_power_efficient]
+root          41  0.0  0.0      0     0 ?        S    15:40   0:00 [kdevtmpfs]
+root          42  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-inet_]
+root          43  0.0  0.0      0     0 ?        I    15:40   0:01 [kworker/u9:1-events_unbound]
+root          44  0.0  0.0      0     0 ?        S    15:40   0:00 [kauditd]
+root          45  0.0  0.0      0     0 ?        S    15:40   0:00 [khungtaskd]
+root          46  0.0  0.0      0     0 ?        S    15:40   0:00 [oom_reaper]
+root          48  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-write]
+root          49  0.1  0.0      0     0 ?        S    15:40   0:07 [kcompactd0]
+root          50  0.0  0.0      0     0 ?        SN   15:40   0:00 [ksmd]
+root          52  0.0  0.0      0     0 ?        SN   15:40   0:00 [khugepaged]
+root          53  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-kinte]
+root          54  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-kbloc]
+root          55  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-blkcg]
+root          56  0.0  0.0      0     0 ?        S    15:40   0:00 [irq/9-acpi]
+root          57  0.2  0.0      0     0 ?        I    15:40   0:12 [kworker/2:1-inet_frag_wq]
+root          58  0.0  0.0      0     0 ?        I    15:40   0:01 [kworker/1:1-events]
+root          59  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-tpm_d]
+root          60  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-ata_s]
+root          61  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-md]
+root          62  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-md_bi]
+root          63  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-edac-]
+root          64  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-devfr]
+root          65  0.0  0.0      0     0 ?        S    15:40   0:00 [watchdogd]
+root          66  0.0  0.0      0     0 ?        I<   15:40   0:01 [kworker/0:1H-kblockd]
+root          67  0.2  0.0      0     0 ?        S    15:40   0:11 [kswapd0]
+root          68  0.0  0.0      0     0 ?        S    15:40   0:00 [ecryptfs-kthread]
+root          69  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-kthro]
+root          70  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-acpi_]
+root          73  0.0  0.0      0     0 ?        I    15:40   0:02 [kworker/3:2-events]
+root          74  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-mld]
+root          75  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/3:1H-kblockd]
+root          76  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-ipv6_]
+root          83  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-kstrp]
+root          85  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/u11:0]
+root          86  0.1  0.0      0     0 ?        I<   15:40   0:05 [kworker/u12:0-i915_flip]
+root          87  0.1  0.0      0     0 ?        I<   15:40   0:05 [kworker/u13:0-i915_flip]
+root          92  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-crypt]
+root          93  0.0  0.0      0     0 ?        I    15:40   0:02 [kworker/0:2-events]
+root         102  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-charg]
+root         126  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/1:1H-kblockd]
+root         140  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/2:1H-kblockd]
+root         154  0.2  0.0      0     0 ?        S    15:40   0:10 [irq/67-ELAN0501:00]
+root         158  0.0  0.0      0     0 ?        S    15:40   0:00 [scsi_eh_0]
+root         159  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-scsi_]
+root         160  0.0  0.0      0     0 ?        S    15:40   0:00 [scsi_eh_1]
+root         161  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-scsi_]
+root         194  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-raid5]
+root         239  0.0  0.0      0     0 ?        S    15:40   0:02 [jbd2/sda6-8]
+root         240  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-ext4-]
+root         290  0.2  0.2  67372  8200 ?        S<s  15:40   0:11 /usr/lib/systemd/systemd-journald
+root         346  0.0  0.0  29952  3600 ?        Ss   15:40   0:01 /usr/lib/systemd/systemd-udevd
+root         351  0.0  0.0      0     0 ?        S    15:40   0:00 [psimon]
+root         415  0.0  0.0      0     0 ?        S    15:40   0:00 [irq/92-mei_txe]
+root         420  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/0:2H-kblockd]
+root         424  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-cfg80]
+root         436  0.0  0.0      0     0 ?        I<   15:40   0:00 [kworker/R-ttm]
+root         437  0.0  0.0      0     0 ?        S    15:40   0:00 [card0-crtc0]
+root         438  0.0  0.0      0     0 ?        S    15:40   0:00 [card0-crtc1]
+root         459  0.0  0.0      0     0 ?        S    15:40   0:00 [irq/86-soc_dts]
+message+     507  0.0  0.0  11080  3072 ?        Ss   15:41   0:03 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+systemd+     562  0.1  0.1  21832  4224 ?        Ss   15:41   0:06 /usr/lib/systemd/systemd-resolved
+systemd+     566  0.0  0.0  91212  2432 ?        Ssl  15:41   0:00 /usr/lib/systemd/systemd-timesyncd
+root         693  0.4  0.1 340000  5940 ?        Ssl  15:43   0:18 /usr/sbin/NetworkManager --no-daemon
+root         694  0.0  0.0 316212  2656 ?        Ssl  15:43   0:00 /usr/libexec/accounts-daemon
+avahi        696  2.3  0.0   9824  2688 ?        Ss   15:43   1:36 avahi-daemon: running [enzo-laptop.local]
+root         698  0.0  0.0  12040  1024 ?        Ss   15:43   0:00 /usr/sbin/cron -f -P
+root         706  0.0  0.0  82920  1792 ?        Ssl  15:43   0:01 /usr/sbin/irqbalance
+polkitd      731  0.0  0.1 384848  5236 ?        Ssl  15:43   0:01 /usr/lib/polkit-1/polkitd --no-debug
+root         734  0.0  0.0 316388  2728 ?        Ssl  15:43   0:00 /usr/libexec/power-profiles-daemon
+root         736  0.0  0.0 312468  2560 ?        Ssl  15:43   0:00 /usr/libexec/switcheroo-control
+root         738  0.0  0.0  18124  2776 ?        Ss   15:43   0:00 /usr/lib/systemd/systemd-logind
+root         740  0.0  0.0 427616  3200 ?        Ssl  15:43   0:00 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         741  0.2  0.1 258552  4864 ?        Ssl  15:43   0:08 /usr/bin/touchegg --daemon
+root         745  0.0  0.1 469380  5084 ?        Ssl  15:43   0:01 /usr/libexec/udisks2/udisksd
+root         752  0.0  0.0  18140  2560 ?        Ss   15:43   0:02 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+avahi        787  0.0  0.0   8424  1152 ?        S    15:43   0:00 avahi-daemon: chroot helper
+kernoops     796  0.0  0.0  12744  1544 ?        Ss   15:43   0:00 /usr/sbin/kerneloops --test
+root         858  0.0  0.0  11320  1024 tty1     Ss+  15:43   0:00 /sbin/agetty -o -p -- \u --noclear - linux
+kernoops     859  0.0  0.0  12744  1672 ?        Ss   15:43   0:00 /usr/sbin/kerneloops
+root         867  0.0  0.1 392092  3904 ?        Ssl  15:43   0:00 /usr/sbin/ModemManager
+root         869  0.0  0.0 380076  2816 ?        SLsl 15:43   0:00 /usr/sbin/lightdm
+root         886  7.1  1.3 589844 51084 ?        Rsl  15:43   4:57 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root         895  0.0  0.0  40556  3584 ?        Ss   15:43   0:00 /usr/sbin/cupsd -l
+root         976  0.0  0.0      0     0 ?        S    15:43   0:00 [psimon]
+root         985  0.0  0.0      0     0 ?        S    15:43   0:00 [hwrng]
+rtkit       1016  0.0  0.0  22940  1280 ?        SNsl 15:43   0:00 /usr/libexec/rtkit-daemon
+root        1050  0.0  0.0  17252  2176 tty7     Ss+  15:43   0:00 /usr/lib/systemd/systemd-sulogin-shell emergency
+root        1060  0.0  0.0  12372  1152 tty7     S+   15:43   0:00 /usr/sbin/sulogin
+root        1115  0.0  0.0 319660  3712 ?        Ssl  15:43   0:01 /usr/libexec/upowerd
+root        1127  0.0  0.0 236604  3244 ?        Sl   15:43   0:00 lightdm --session-child 13 20
+enzo        1147  0.0  0.0  20580  3584 ?        Ss   15:43   0:00 /usr/lib/systemd/systemd --user
+enzo        1148  0.0  0.0  22996  2944 ?        S    15:43   0:00 (sd-pam)
+enzo        1158  0.0  0.1 118324  6656 ?        S<sl 15:43   0:00 /usr/bin/pipewire
+enzo        1160  0.0  0.0 100352  1664 ?        Ssl  15:43   0:00 /usr/bin/pipewire -c filter-chain.conf
+enzo        1164  0.0  0.1 409920  7424 ?        S<sl 15:43   0:00 /usr/bin/wireplumber
+enzo        1166  0.0  0.1 118724  5636 ?        S<sl 15:43   0:00 /usr/bin/pipewire-pulse
+enzo        1167  0.0  0.0 319476  2944 ?        SLsl 15:43   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+enzo        1168  0.0  0.0  10436  2304 ?        Ss   15:43   0:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+enzo        1182  0.0  0.1 625368  4992 ?        Ssl  15:43   0:00 /usr/lib/x86_64-linux-gnu/cinnamon-session-binary --session cinnamon
+enzo        1242  0.0  0.0 312228  2432 ?        Ssl  15:43   0:00 /usr/libexec/xdg-permission-store
+enzo        1404  0.0  0.2 380856  9404 ?        Sl   15:43   0:00 /usr/bin/csd-xsettings
+enzo        1405  0.0  0.3 446260 13120 ?        Sl   15:43   0:00 /usr/bin/csd-background
+enzo        1406  0.0  0.2 379248  8880 ?        Sl   15:43   0:00 /usr/bin/csd-housekeeping
+enzo        1407  0.0  0.0 317912  3712 ?        Sl   15:43   0:00 /usr/bin/csd-print-notifications
+enzo        1408  0.0  0.2 454276  9412 ?        Sl   15:43   0:02 /usr/bin/csd-power
+enzo        1409  0.0  0.2 305040  8776 ?        Sl   15:43   0:00 /usr/bin/csd-clipboard
+enzo        1414  0.0  0.2 614972  9424 ?        Sl   15:43   0:00 /usr/bin/csd-color
+enzo        1415  0.0  0.0 303796  2304 ?        Sl   15:43   0:00 /usr/bin/csd-screensaver-proxy
+enzo        1416  0.0  0.0 304208  2560 ?        Sl   15:43   0:00 /usr/bin/csd-settings-remap
+enzo        1422  0.0  0.2 379704  9524 ?        Sl   15:43   0:00 /usr/bin/csd-wacom
+enzo        1428  0.0  0.0 383096  3072 ?        Sl   15:43   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+enzo        1432  0.0  0.0 305204  2560 ?        Sl   15:43   0:00 /usr/bin/csd-a11y-settings
+enzo        1433  0.0  0.2 453160  9076 ?        Sl   15:43   0:00 /usr/bin/csd-automount
+enzo        1434  0.0  0.2 523552  9204 ?        Sl   15:43   0:00 /usr/bin/csd-media-keys
+enzo        1435  0.0  0.2 379048  8776 ?        Sl   15:43   0:01 /usr/bin/csd-keyboard
+enzo        1452  0.0  0.0 317228  3200 ?        Ssl  15:43   0:00 /usr/libexec/gvfsd
+enzo        1453  0.0  0.0   9556  1920 ?        S    15:43   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+enzo        1456  0.0  0.0 230372  2560 ?        Ssl  15:43   0:00 /usr/libexec/dconf-service
+enzo        1464  0.0  0.0 462632  2816 ?        Sl   15:43   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+enzo        1496  0.0  0.0 236148  3072 ?        Sl   15:43   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+colord      1512  0.0  0.1 322976  6616 ?        Ssl  15:43   0:00 /usr/libexec/colord
+enzo        1517  0.0  0.0 392316  3584 ?        Ssl  15:43   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+enzo        1532  0.0  0.0 312548  2688 ?        Ssl  15:43   0:00 /usr/libexec/gvfs-goa-volume-monitor
+enzo        1538  0.0  0.1 549736  6144 ?        Sl   15:43   0:00 /usr/libexec/goa-daemon
+enzo        1547  0.0  0.0 465796  3200 ?        Sl   15:43   0:00 /usr/libexec/goa-identity-service
+enzo        1560  0.0  0.0 313508  2560 ?        Ssl  15:43   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+enzo        1567  0.0  0.5 548492 21336 ?        Sl   15:43   0:01 cinnamon-launcher
+enzo        1570  0.0  0.1 419012  4352 ?        Sl   15:43   0:00 /usr/libexec/csd-printer
+enzo        1571  0.0  0.0 392152  3072 ?        Ssl  15:43   0:00 /usr/libexec/gvfs-afc-volume-monitor
+enzo        1578  0.0  0.0 312540  2688 ?        Ssl  15:43   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+enzo        1594 10.7  2.5 4132200 97356 ?       Sl   15:43   7:26 cinnamon --replace
+enzo        1617  0.0  0.2 453300  8832 ?        Sl   15:43   0:00 /usr/lib/x86_64-linux-gnu/xapps/xapp-sn-watcher
+enzo        1641  0.0  0.0 313040  2432 ?        Sl   15:43   0:00 /usr/libexec/geoclue-2.0/demos/agent
+enzo        1649  0.0  0.6 1182352 26876 ?       Sl   15:43   0:02 /usr/bin/nemo-desktop
+enzo        1653  0.0  0.6 629716 24912 ?        Sl   15:43   0:01 /usr/bin/python3 /usr/bin/blueman-applet
+enzo        1654  0.0  0.4 398804 18048 ?        Sl   15:43   0:00 cinnamon-killer-daemon
+enzo        1655  0.0  0.6 991556 23740 ?        Sl   15:43   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+enzo        1723  0.0  0.4 1443712 18688 ?       Ssl  15:43   0:00 /usr/libexec/evolution-source-registry
+enzo        1757  0.0  0.1 893828  5504 ?        Ssl  15:43   0:00 /usr/libexec/evolution-calendar-factory
+enzo        1772  0.0  0.1 754660  6144 ?        Ssl  15:43   0:00 /usr/libexec/evolution-addressbook-factory
+root        1791  0.0  0.0  13412  2048 ?        Ss   15:43   0:00 /usr/libexec/bluetooth/bluetoothd
+enzo        1792  0.0  0.0  49072  2304 ?        Ss   15:43   0:00 /usr/libexec/bluetooth/obexd
+enzo        1802  0.0  0.0 612408  3072 ?        Sl   15:43   0:00 /usr/libexec/gvfsd-trash --spawner :1.25 /org/gtk/gvfs/exec_spaw/0
+enzo        1817  0.2  0.4 397360 17336 ?        Sl   15:43   0:09 /usr/bin/python3 /usr/bin/blueman-tray
+root        1819  0.0  0.0      0     0 ?        I<   15:43   0:00 [kworker/u12:1]
+enzo        1832  0.0  0.0 239240  2560 ?        Ssl  15:43   0:00 /usr/libexec/gvfsd-metadata
+root        1839  0.0  0.0      0     0 ?        I<   15:43   0:00 [kworker/u13:1]
+enzo        1892  0.0  1.1 1050080 46476 ?       Sl   15:44   0:03 mintUpdate
+enzo        1941  0.0  0.4  66140 18944 ?        S    15:44   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+enzo        1960  1.7  0.6 567872 25728 ?        Sl   15:44   1:11 mintreport-tray
+enzo        1981  0.0  0.1 566832  5620 ?        Ssl  15:44   0:00 /usr/libexec/xdg-desktop-portal
+enzo        1986  0.0  0.0 539480  2560 ?        Ssl  15:44   0:00 /usr/libexec/xdg-document-portal
+root        1992  0.0  0.0   2704  1024 ?        Ss   15:44   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+enzo        1995  0.0  0.0 386568  2560 ?        Ssl  15:44   0:00 /usr/libexec/xdg-desktop-portal-xapp
+enzo        2015  0.0  0.2 453936  8532 ?        Ssl  15:44   0:00 /usr/libexec/xdg-desktop-portal-gtk
+enzo        2041  3.4  2.8 1218323532 110952 ?   SLl  15:44   2:20 /usr/share/code/code
+enzo        2045  0.0  0.4 33997816 19456 ?      S    15:44   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+enzo        2046  0.0  0.4 33997804 19328 ?      S    15:44   0:00 /usr/share/code/code --type=zygote
+enzo        2048  0.0  0.4 33997828 17028 ?      S    15:44   0:00 /usr/share/code/code --type=zygote
+enzo        2067  0.0  0.0 33575956 1152 ?       Sl   15:45   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/enzo/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=f588a6f1-3e7c-4c3b-9432-59d059712c48&iid=f588a6f1-3e7c-4c3b-9432-59d059712c48&sid=f588a6f1-3e7c-4c3b-9432-59d059712c48 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.99.3 --annotation=lsb-release=Linux Mint 22.1 --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=34.3.2 --initial-client-fd=39 --shared-client-connection
+enzo        2085 19.9  1.7 34195896 68424 ?      Rl   15:45  13:33 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=2067 --enable-crash-reporter=04135372-48d1-429d-9395-afecd59d32e6,no_channel --user-data-dir=/home/enzo/.config/Code --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,14324065766493200289,9052745168322720428,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+enzo        2089  0.2  0.8 34048120 31548 ?      Sl   15:45   0:12 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es-419 --service-sandbox-type=none --crashpad-handler-pid=2067 --enable-crash-reporter=04135372-48d1-429d-9395-afecd59d32e6,no_channel --user-data-dir=/home/enzo/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,14324065766493200289,9052745168322720428,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+enzo        2110 39.6  9.7 1224980824 379448 ?   Sl   15:45  26:54 /usr/share/code/code --type=renderer --crashpad-handler-pid=2067 --enable-crash-reporter=04135372-48d1-429d-9395-afecd59d32e6,no_channel --user-data-dir=/home/enzo/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --js-flags=--nodecommit_pooled_pages --disable-blink-features=FontMatchingCTMigration,StandardizedBrowserZoom, --lang=es-419 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1759516805644285 --launch-time-ticks=296932853 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,14324065766493200289,9052745168322720428,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:b98a8d79-c168-4031-8195-81572437588d
+enzo        2153  3.6  1.7 1218083172 66208 ?    Sl   15:45   2:30 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=es-419 --service-sandbox-type=none --crashpad-handler-pid=2067 --enable-crash-reporter=04135372-48d1-429d-9395-afecd59d32e6,no_channel --user-data-dir=/home/enzo/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,14324065766493200289,9052745168322720428,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+enzo        2233  0.0  0.0 391588  3328 ?        Sl   15:45   0:00 /usr/libexec/gvfsd-network --spawner :1.25 /org/gtk/gvfs/exec_spaw/1
+enzo        2242  0.0  0.1 608796  6400 ?        Sl   15:45   0:00 /usr/libexec/gvfsd-smb-browse --spawner :1.25 /org/gtk/gvfs/exec_spaw/2
+enzo        2279  0.0  0.0 393512  3584 ?        Sl   15:45   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.25 /org/gtk/gvfs/exec_spaw/3
+enzo        2299 10.4 30.1 1218093340 1172532 ?  Sl   15:45   7:03 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=es-419 --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=2067 --enable-crash-reporter=04135372-48d1-429d-9395-afecd59d32e6,no_channel --user-data-dir=/home/enzo/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,14324065766493200289,9052745168322720428,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+enzo        2329  0.2  1.3 1218100052 53240 ?    Sl   15:45   0:08 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=es-419 --service-sandbox-type=none --crashpad-handler-pid=2067 --enable-crash-reporter=04135372-48d1-429d-9395-afecd59d32e6,no_channel --user-data-dir=/home/enzo/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,14324065766493200289,9052745168322720428,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+enzo        2353  1.3  1.6 1218092036 63424 ?    Sl   15:45   0:52 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=es-419 --service-sandbox-type=none --crashpad-handler-pid=2067 --enable-crash-reporter=04135372-48d1-429d-9395-afecd59d32e6,no_channel --user-data-dir=/home/enzo/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,14324065766493200289,9052745168322720428,262144 --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+enzo        2467  0.0  0.8 1216302088 34532 ?    Sl   15:45   0:01 /usr/share/code/code /usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=2299
+root        3469  0.0  0.0      0     0 ?        I    15:51   0:01 [kworker/u10:0-events_power_efficient]
+enzo        3557  1.4  0.3  86748 14216 ?        Sl   15:53   0:50 /home/enzo/.vscode/extensions/ms-vscode.cpptools-1.27.7-linux-x64/bin/cpptools
+root        4188  0.1  0.2 598672  8916 ?        Ssl  15:59   0:04 /usr/libexec/fwupd/fwupd
+root        4313  0.0  0.0      0     0 ?        I    16:00   0:01 [kworker/u10:1-events_power_efficient]
+enzo        4661  0.2  0.1 4264276 6636 ?        Sl   16:04   0:08 /home/enzo/.vscode/extensions/ms-vscode.cpptools-1.27.7-linux-x64/bin/cpptools-srv 3557 {318D14AB-F4D5-4FEC-8376-18FCACCB1D86}
+root        5080  0.0  0.0      0     0 ?        I    16:23   0:00 [kworker/0:1-cgwb_release]
+enzo        5467 20.7  6.8 11763348 265564 ?     Sl   16:27   5:21 /usr/lib/firefox/firefox
+enzo        5528  0.1  0.3 225628 13696 ?        Sl   16:27   0:01 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20250414091429 -prefsHandle 0 -prefsLen 35540 -prefMapHandle 1 -prefMapSize 267200 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {db4f7e97-f81e-4b47-a8bf-8e7067371685} -parentPid 5467 -crashReporter 5 -appDir /usr/lib/firefox/browser 1 socket
+enzo        5552  0.5  1.6 2495888 64444 ?       Sl   16:27   0:09 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 35681 -prefMapHandle 1 -prefMapSize 267200 -jsInitHandle 2 -jsInitLen 247540 -parentBuildID 20250414091429 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {08bb5d2b-21f9-49df-a6e2-a02989758ad8} -parentPid 5467 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 2 tab
+enzo        5557  0.0  0.4 394444 16128 ?        Sl   16:27   0:00 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20250414091429 -prefsHandle 0 -prefsLen 35681 -prefMapHandle 1 -prefMapSize 267200 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {136fc563-8e55-47d9-84d1-46ea0b6b73b2} -parentPid 5467 -crashReporter 5 -appDir /usr/lib/firefox/browser 3 rdd
+enzo        5622  0.1  0.9 2464004 36284 ?       Sl   16:27   0:02 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 44178 -prefMapHandle 1 -prefMapSize 267200 -jsInitHandle 2 -jsInitLen 247540 -parentBuildID 20250414091429 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {6f925f46-b1f5-42b6-a128-3e0cec083fa9} -parentPid 5467 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 5 tab
+enzo        5681  0.0  0.4 395468 16512 ?        Sl   16:27   0:00 /usr/lib/firefox/firefox-bin -contentproc -parentBuildID 20250414091429 -sandboxingKind 0 -prefsHandle 0 -prefsLen 43821 -prefMapHandle 1 -prefMapSize 267200 -sandboxReporter 2 -chrootClient 3 -ipcHandle 4 -initialChannelId {1fb9b521-6d48-4e21-ba31-0af77e92fd3e} -parentPid 5467 -crashReporter 5 -appDir /usr/lib/firefox/browser 6 utility
+enzo        5690  0.1  1.0 2462612 40536 ?       Sl   16:27   0:02 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 39253 -prefMapHandle 1 -prefMapSize 267200 -jsInitHandle 2 -jsInitLen 247540 -parentBuildID 20250414091429 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {35ab5afd-5300-4182-8094-ce79a8ed9e76} -parentPid 5467 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 7 tab
+enzo        5694  6.4  6.1 2776008 239012 ?      Sl   16:27   1:39 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 39253 -prefMapHandle 1 -prefMapSize 267200 -jsInitHandle 2 -jsInitLen 247540 -parentBuildID 20250414091429 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {678d89d2-6b66-46c3-99b7-082ea72a777b} -parentPid 5467 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 8 tab
+enzo        5722  1.2  2.3 2625644 91084 ?       Sl   16:27   0:19 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 39253 -prefMapHandle 1 -prefMapSize 267200 -jsInitHandle 2 -jsInitLen 247540 -parentBuildID 20250414091429 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {90c76345-64fe-44c6-8278-66d0c12d66c2} -parentPid 5467 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 9 tab
+enzo        5873  0.0  0.0  14456  3584 pts/0    Ss   16:28   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+root        6570  0.0  0.0      0     0 ?        I    16:39   0:00 [kworker/u8:2-i915]
+root        6694  0.0  0.0      0     0 ?        I    16:40   0:00 [kworker/u9:2-events_unbound]
+root        6737  0.2  0.0      0     0 ?        I    16:43   0:01 [kworker/2:0-i915-unordered]
+root        6740  0.0  0.0      0     0 ?        I    16:43   0:00 [kworker/u10:2-events_power_efficient]
+root        6963  0.0  0.0      0     0 ?        I    16:46   0:00 [kworker/u8:1-i915]
+root        7067  0.0  0.0      0     0 ?        I    16:46   0:00 [kworker/1:2]
+root        7080  0.0  0.0      0     0 ?        I    16:46   0:00 [kworker/3:1-events]
+enzo        7106  2.8  1.8 2578144 73584 ?       Sl   16:47   0:09 /usr/lib/firefox/firefox-bin -contentproc -isForBrowser -prefsHandle 0 -prefsLen 44109 -prefMapHandle 1 -prefMapSize 267200 -jsInitHandle 2 -jsInitLen 247540 -parentBuildID 20250414091429 -sandboxReporter 3 -chrootClient 4 -ipcHandle 5 -initialChannelId {a6ca637e-6817-402b-9093-e0de99e8079a} -parentPid 5467 -crashReporter 6 -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appDir /usr/lib/firefox/browser 13 tab
+root        7628  0.0  0.0      0     0 ?        I    16:51   0:00 [kworker/u10:3-events_unbound]
+enzo        7821  0.0  0.0  12556  3328 pts/0    S+   16:52   0:00 /bin/bash ./ej3.sh
+enzo        7823  125  0.1  17792  4992 pts/0    R+   16:52   0:00 ps -aux

@@ -12,3 +12,4 @@ find "$d" -type f | while read -r file; do
         echo "$file"
     fi
 done
+
